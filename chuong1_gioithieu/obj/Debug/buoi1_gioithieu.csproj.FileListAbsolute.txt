@@ -1,0 +1,7 @@
+C:\Users\ASUS TUF\Downloads\buoi1_gioithieu\bin\Debug\buoi1_gioithieu.exe.config
+C:\Users\ASUS TUF\Downloads\buoi1_gioithieu\bin\Debug\buoi1_gioithieu.exe
+C:\Users\ASUS TUF\Downloads\buoi1_gioithieu\bin\Debug\buoi1_gioithieu.pdb
+C:\Users\ASUS TUF\Downloads\buoi1_gioithieu\obj\Debug\buoi1_gioithieu.csproj.AssemblyReference.cache
+C:\Users\ASUS TUF\Downloads\buoi1_gioithieu\obj\Debug\buoi1_gioithieu.csproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF\Downloads\buoi1_gioithieu\obj\Debug\buoi1_gioithieu.exe
+C:\Users\ASUS TUF\Downloads\buoi1_gioithieu\obj\Debug\buoi1_gioithieu.pdb

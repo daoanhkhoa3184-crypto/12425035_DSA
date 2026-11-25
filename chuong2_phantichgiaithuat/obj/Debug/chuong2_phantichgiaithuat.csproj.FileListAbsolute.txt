@@ -1,0 +1,7 @@
+C:\Users\ASUS TUF\Downloads\chuong2_phantichgiaithuat\bin\Debug\chuong2_phantichgiaithuat.exe.config
+C:\Users\ASUS TUF\Downloads\chuong2_phantichgiaithuat\bin\Debug\chuong2_phantichgiaithuat.exe
+C:\Users\ASUS TUF\Downloads\chuong2_phantichgiaithuat\bin\Debug\chuong2_phantichgiaithuat.pdb
+C:\Users\ASUS TUF\Downloads\chuong2_phantichgiaithuat\obj\Debug\chuong2_phantichgiaithuat.csproj.AssemblyReference.cache
+C:\Users\ASUS TUF\Downloads\chuong2_phantichgiaithuat\obj\Debug\chuong2_phantichgiaithuat.csproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF\Downloads\chuong2_phantichgiaithuat\obj\Debug\chuong2_phantichgiaithuat.exe
+C:\Users\ASUS TUF\Downloads\chuong2_phantichgiaithuat\obj\Debug\chuong2_phantichgiaithuat.pdb
