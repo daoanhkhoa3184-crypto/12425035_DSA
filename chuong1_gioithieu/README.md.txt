@@ -1,4 +1,4 @@
-các kết  quả chay truong trình của buoi1_tongquan
+các kết  quả chay truong trình của chuong1_tongquan
 
 BÀI 1
 a. Số lớn nhất: 9979
